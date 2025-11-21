@@ -1,0 +1,4 @@
+A          R PRINTREC
+A            INVNO         10A
+A            CUSTNO        10A
+A            AMOUNT        15P 2

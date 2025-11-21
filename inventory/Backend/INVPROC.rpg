@@ -1,0 +1,14 @@
+     H                    DFTACTGRP(*NO) ACTGRP(*NEW)
+
+     D INVNO         S             10A
+
+     C     *ENTRY        PLIST
+     C                   PARM                    INVNO
+
+     C                   CALL      'INVVAL'
+     C                   PARM                    INVNO
+
+     C                   CALL      'INVPRT'
+     C                   PARM                    INVNO
+
+     C                   SETON                   LR
