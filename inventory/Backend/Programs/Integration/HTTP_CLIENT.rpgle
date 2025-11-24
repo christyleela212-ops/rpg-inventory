@@ -1,11 +1,6 @@
 **free
 ctl-opt dftactgrp(*no);
 
-/*
-  Stub: implement actual HTTP GET/POST using HTTPAPI or QSYS2.URI_* procedures
-  For now returns a mock JSON payload string.
-*/
-
 dcl-pr HTTP_GET varchar(1024) extproc('HTTP_GET'); // illustrative
   url pointer value;
 end-pr;
