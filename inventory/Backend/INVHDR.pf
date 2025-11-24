@@ -1,6 +1,0 @@
-A          R INVHDRR
-A            INVNO         10A       TEXT('Invoice Number')
-A            CUSTNO        10A       TEXT('Customer Number')
-A            AMOUNT        15P 2     TEXT('Amount')
-A            STATUS         1A       TEXT('Status')
-A          K INVNO

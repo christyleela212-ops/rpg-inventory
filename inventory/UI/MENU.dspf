@@ -1,4 +1,0 @@
-A          R MENUSCR
-A                                      CF03(03)
-A            OPTION        1A  B  5  5  TEXT('Select Option')
-A            OPTTXT       30A  O  7  5  VALUE('1=Invoice  2=Reports')
